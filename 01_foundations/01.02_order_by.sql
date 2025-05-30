@@ -1,4 +1,4 @@
--- Prompt:
+-- Query Objective:
 -- A report needs the 5 oldest customers based on when they joined.
 -- List their first and last names with join dates.
 
