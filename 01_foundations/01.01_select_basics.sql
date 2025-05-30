@@ -1,4 +1,4 @@
--- Prompt:
+-- Query Objective:
 -- As a customer success analyst, you’re asked to pull a list of customers 
 -- for an email campaign. Include their first name, last name, and email.
 
