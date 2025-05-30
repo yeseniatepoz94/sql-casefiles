@@ -7,7 +7,7 @@
 -- Table: customers
 -- Columns: first_name, last_name, email, state, join_date
 
--- ✅ SQL Solution:
+-- SQL Solution:
 SELECT
   first_name,
   last_name,
